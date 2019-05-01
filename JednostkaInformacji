@@ -1,0 +1,25 @@
+Jednostki informacji – najmniejszą jednostką informacji jest bit. Skróconym symbolem bitu jest b. Wyższe jednostki to:
+
+    półbajt (ang. nybble) – 4 bity;
+    oktet (ang. octet) – 8 bitów;
+    bajt (ang. byte, symbol: B) – pierwotnie liczba bitów przetwarzana jednocześnie przez komputer. Obecnie używany wyłącznie do oznaczania 8 bitów (czyli oktetu).
+
+Do określenia większej liczby bajtów stosuje się przedrostki dziesiętne układu SI, będące wielokrotnościami liczby 10 (103n), jednak najczęściej są one używane w znaczeniu przedrostków dwójkowych:
+
+    kilobajt (ang. kilobyte, symbol kB) – 103 = 1000 bajtów;
+    megabajt (ang. megabyte, symbol MB) – 106 = 10002 = 1 milion bajtów;
+    gigabajt (ang. gigabyte, symbol GB) – 109 = 10003 = 1 miliard bajtów;
+    terabajt (ang. terabyte, symbol TB) – 1012 = 10004 = 1 bilion bajtów.
+
+Zaproponowane (opcjonalne) przez IEC przedrostki dwójkowe są wielokrotnościami liczby 2 (210n):
+
+    kibibajt (ang. kibibyte, symbol KiB) – 210 = 1024 bajty;
+    mebibajt (ang. mebibyte, symbol MiB) – 220 = 10242 = 1 milion 48 tysięcy 576 bajtów;
+    gibibajt (ang. gibibyte, symbol GiB) – 230 = 10243 = 1 miliard 73 miliony 741 tysięcy 824 bajtów;
+    tebibajt (ang. tebibyte, symbol TiB) – 240 = 10244 = 1 bilion 99 miliardów 511 milionów 627 tysięcy 776 bajtów.
+
+W praktyce zapis przedrostków dwójkowych jest mało znany (porównaj: wielokrotności bajta: próby rozwiązania) i w przypadku bajtów prefiksy kilo-, mega-, giga- i tera- nie zawsze są używane w znaczeniu potęg tysiąca, lecz zwykle stosuje się je zamiast ich binarnych odpowiedników. Występują także przedrostki mieszane, np. dla dyskietek 1 MB oznacza 1 024 000 bajtów.
+
+Można spotkać się także ze stosowaniem zapisu 1 KB = 1024 B dla odróżnienia od 1 kB = 1000 B, przez osoby nieznające przedrostków dwójkowych:
+
+    kilobajt (ang. kilobyte, symbol KB) – 210 = 1024 bajty.

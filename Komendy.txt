@@ -1,0 +1,58 @@
+pwd ->To know which directory you are in
+ls ->to know what files are in the directory
+ls -a ->To see all (hidden files too)
+cd ->command to go to a directory
+mkdir ->command to create a folder or a directory
+rmdir ->command to remove an empty directory
+rm ->command to delate a directory containing files
+touch ->command is used to create a file. It can be anything. touch new.txt
+man ->It shows the manual pages of the command
+-help ->to show help of the command
+cp ->command to copy files cp +source
+mv ->command to move files, rename "mv text new"
+locate ->is used to locate a file in Linux system
+echo ->helps to move data.if u want to create a new text file or add to an already made text file, you just need to type in "echo tekst >>nazwadok.txt"
+cat ->Use cat to display the contents of a file
+nano, vi, jed-> nano and vi are already installed text editors in the Linux command line. ctr+x to save file
+sudo ->admin
+df ->command to see the avable disk space[ -m show in megabytes]
+du ->to know the disk usage of a file in your system
+tar ->use tar to work with tarballs(or files compresed in a triball archive)
+zip, unzip ->use zip to compress files/to extract files from a zip archive
+uname ->use uname to show the information about the system distro running
+apt-get ->use apt to work with packages in the Linux command line. apt-get to install packages. ex "sudo apt-get install jed"
+sudo apt-get update ->upgrate the distro
+chmod ->use to make a file executable and to change the permissions granted to int in linux.
+hostname -> use to know your name in your host to network.
+hostname -I -> it shows ip address
+ping -> use to check your connection to a server
+clear -> to clear the terminal
+TAB ->to fill up in the terminal
+ctrl +c ->to stop any command in terminal safely
+ctrl +z ->to force stop
+exit ->exit terminal
+sudo halt ->power off
+sudo reboot ->reboot
+touch -> lokazlizacja// tworzenie
+cp ->kopia
+
+VirusTotal
+
+paylot meTASPLOIT 
+paylot -> urtuchom sesje z czekaniem na polaczenia
+
+nmap->skan postow i portow nmap+port do skanu
+
+nessus
+
+exploit-db.com metasplot- wykorzystuje znane eksploity  metasploit
+
+shodan
+
+pupy preetyusepython
+
+ 
+
+
+
+
