@@ -1,0 +1,1 @@
+Komendy dla bash
